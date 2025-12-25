@@ -109,10 +109,5 @@ Open the local URL Streamlit prints (usually http://localhost:8501).
 
 ---
 
-## Resume Bullet (Example)
-Built an AI-powered study tool that converts PDFs into structured study guides and interactive quizzes using Python, Streamlit, and OpenAI APIs, including token-aware chunking, schema-validated outputs, and PDF page/excerpt grounding for each quiz question.
-
----
-
 ## License
 MIT (or your preferred license)
